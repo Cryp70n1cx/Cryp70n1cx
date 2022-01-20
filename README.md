@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Cryp70n1cx
+- 👋 Hi, I’m @Cryp70n1x
 - 👀 I’m interested in Ethical Hacking & Programming
